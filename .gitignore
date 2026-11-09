@@ -1,13 +1,5 @@
-node_modules
-.DS_Store
-dist
-dist-ssr
-*.local
+﻿node_modules/
+dist/
 .env
-.nitro
-.tanstack
-.wrangler
-.output
-.vinxi
-__unconfig*
-todos.json
+.env.*
+!.env.example
